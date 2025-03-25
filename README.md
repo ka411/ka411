@@ -26,7 +26,7 @@
 - 🤝 I’m looking for help with **Exploring real-world applications of reinforcement learning**
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kamran-qureshi0/](https://www.linkedin.com/in/kamran-qureshi0/)
 - 💬 Ask me about **Model development, optimization, and real-world applications.**
-- 📫 How to reach me **kq11155@gmail.com**
+- 📫 How to reach me **KamranJaved.qureshi@b-tu.de**
 - 📄 Know about my experiences [https://www.linkedin.com/in/kamran-qureshi0/](https://www.linkedin.com/in/kamran-qureshi0/)
 - ⚡ Fun fact **I can spend hours debugging code, but still forget where I kept my coffee! ☕😂**
 
