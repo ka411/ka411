@@ -2,7 +2,6 @@
 <h3 align="center">🚀 AI & Machine Learning Enthusiast | Master’s Student in AI | Web & Data Science Explorer | Passionate About Problem-Solving & Automation</h3>
 
 
-- 🔭 I’m currently working on [A machine learning model predicting songs based on data patterns.](https://github.com/ka411/Hackathon-ML-Model-for-Song-Prediction)
 - 🌱 I’m currently learning **Advanced AI & Deep Learning**
 - 👯 I’m looking to collaborate on [AI & Machine Learning Projects](Especially in computer vision, NLP, and deep learning.)
 - 🤝 I’m looking for help with **Exploring real-world applications of reinforcement learning**
