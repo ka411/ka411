@@ -1,24 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamran Qureshi</h1>
 <h3 align="center">🚀 AI & Machine Learning Enthusiast | Master’s Student in AI | Web & Data Science Explorer | Passionate About Problem-Solving & Automation</h3>
 
-<p align="center">
-  <img src="https://github.com/ka411/ka411/blob/main/snake.svg?raw=true" alt="Snake Animation" width="700" 
-       style="border: 4px solid transparent; border-radius: 15px; padding: 5px; background-image: linear-gradient(45deg, #ff007f, #ff7300, #ffeb3b, #00bcd4, #8bc34a); 
-              background-origin: border-box; background-clip: content-box; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
-              transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-</p>
-
-
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka411&show_icons=true&locale=en&layout=compact" alt="ka411" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ka411&show_icons=true&locale=en" alt="ka411" />
-</p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ka411&label=Profile%20views&color=0e75b6&style=flat" alt="ka411" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka411" alt="ka411" /></a> </p>
 
 - 🔭 I’m currently working on [A machine learning model predicting songs based on data patterns.](https://github.com/ka411/Hackathon-ML-Model-for-Song-Prediction)
 - 🌱 I’m currently learning **Advanced AI & Deep Learning**
